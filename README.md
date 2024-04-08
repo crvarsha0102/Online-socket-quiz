@@ -4,4 +4,5 @@ Upon buzzing in, the player must provide their answer within 10 seconds. If the 
 The game concludes when any player accumulates 5 points or more, upon which they are declared the victor.
 ## Instructions to run:
 Start the server with the following command: python3 server.py <IP_address> <Port_Number>
+
 Start the client with the following command: python3 client.py <IP_address> <Port_Number>
